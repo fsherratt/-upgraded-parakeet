@@ -1,5 +1,5 @@
 # Project Upgraded Parakeet
-[![Release Version](https://img.shields.io/badge/version-v0.0-blue)](https://github.com/fsherratt/upgraded-parakeet/releases)
+[![Release Version](https://img.shields.io/badge/version-v0.2-blue)](https://github.com/fsherratt/upgraded-parakeet/releases)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://choosealicense.com/licenses/lgpl-3.0/) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Upgraded Parakeet is the next generation architecture for the [TeamBathDrones](https://www.teambathdrones.com) Research ERL entries. It focuses on robust highly decoupled nodes following the pub/sub model.
